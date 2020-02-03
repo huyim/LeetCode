@@ -6,7 +6,7 @@ My solutions.
 
 Number        | Title         | Language  | Difficulty  |
 ------------- | ------------- | --------- | ----------- |
-1             | Two Sum       | Python    | Easy        |
+1             | Two Sum       | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/1-Two%20Sum.py "Named link title")    | Easy        |
 3             | Longest Substring Without Repeating Characters  | Python    | Medium       |
 7 | Reverse Integer | Python | Easy |
 9 | Palindrome Number | Python | Easy |
