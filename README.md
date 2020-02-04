@@ -14,4 +14,5 @@ Number        | Title         | Language  | Difficulty  |
 20 | Valid Parentheses | [C++](https://github.com/huyim/LeetCode/blob/master/Algorithms/20-Valid%20Parentheses.cpp "Named link title")  | Easy |
 26 | Remove Duplicates from Sorted Array | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/26-Remove%20Duplicates%20from%20Sorted%20Array.py "Named link title")  | Easy |
 27 | Remove Element | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/27-Remove_Element.py "Named link title")  | Easy |
+28 | Implement strStr() | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/27-Remove_Element.py "Named link title")  | Easy |
 
