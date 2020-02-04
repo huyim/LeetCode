@@ -15,4 +15,4 @@ Number        | Title         | Language  | Difficulty  |
 26 | Remove Duplicates from Sorted Array | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/26-Remove%20Duplicates%20from%20Sorted%20Array.py "Named link title")  | Easy |
 27 | Remove Element | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/27-Remove_Element.py "Named link title")  | Easy |
 28 | Implement strStr() | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/28-Implement-strStr.py "Named link title")  | Easy |
-
+35 | Search Insert Position | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/35-Search-Insert-Position.py "Named link title")  | Easy |
