@@ -16,3 +16,4 @@ Number        | Title         | Language  | Difficulty  |
 27 | Remove Element | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/27-Remove_Element.py "Named link title")  | Easy |
 28 | Implement strStr() | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/28-Implement-strStr.py "Named link title")  | Easy |
 35 | Search Insert Position | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/35-Search-Insert-Position.py "Named link title")  | Easy |
+41 | First Missing Positive | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/41-First-Missing-Positive.py "Named link title")  | Hard |
