@@ -11,6 +11,7 @@ Number        | Title         | Language  | Difficulty  |
 7 | Reverse Integer | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/7-Reverse%20Integer.py "Named link title")  | Easy |
 9 | Palindrome Number | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/9-Palindrome%20Number.py "Named link title")  | Easy |
 13 | Roman to Integer| [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/13-Roman%20to%20Integer.py "Named link title")  | Easy |
+14 | Longest Common Prefix | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.py "Named link title") | Easy |
 20 | Valid Parentheses | [C++](https://github.com/huyim/LeetCode/blob/master/Algorithms/20-Valid%20Parentheses.cpp "Named link title")  | Easy |
 26 | Remove Duplicates from Sorted Array | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/26-Remove%20Duplicates%20from%20Sorted%20Array.py "Named link title")  | Easy |
 27 | Remove Element | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/27-Remove_Element.py "Named link title")  | Easy |
