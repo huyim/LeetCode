@@ -19,4 +19,5 @@ Number        | Title         | Language  | Difficulty  |
 35 | Search Insert Position | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/35-Search-Insert-Position.py "Named link title")  | Easy |
 41 | First Missing Positive | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/41-First-Missing-Positive.py "Named link title")  | Hard |
 136 | Single Number | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/136-Single%20Number.py "Named link title")  | Easy |
+169 | Majority Element | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/169-Majority%20Element.py "Named link title) | Easy |
 
