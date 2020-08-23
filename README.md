@@ -18,5 +18,5 @@ Number        | Title         | Language  | Difficulty  |
 28 | Implement strStr() | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/28-Implement-strStr.py "Named link title")  | Easy |
 35 | Search Insert Position | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/35-Search-Insert-Position.py "Named link title")  | Easy |
 41 | First Missing Positive | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/41-First-Missing-Positive.py "Named link title")  | Hard |
-316 | Single Number | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/136-Single%20Number.py "Named link title")  | Easy |
+136 | Single Number | [Python](https://github.com/huyim/LeetCode/blob/master/Algorithms/136-Single%20Number.py "Named link title")  | Easy |
 
